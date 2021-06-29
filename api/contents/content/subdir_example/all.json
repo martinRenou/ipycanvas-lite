@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2021-06-29T13:56:21.083745Z",
+      "format": null,
+      "last_modified": "2021-06-29T13:55:53.819229Z",
+      "mimetype": null,
+      "name": "pyolite.ipynb",
+      "path": "content/subdir_example/pyolite.ipynb",
+      "size": 4715,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2021-06-29T13:56:21.083745Z",
+  "format": "json",
+  "last_modified": "2021-06-29T13:56:21.083745Z",
+  "mimetype": null,
+  "name": "subdir_example",
+  "path": "content/subdir_example",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
