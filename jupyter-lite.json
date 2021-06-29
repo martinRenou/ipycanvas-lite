@@ -16,24 +16,8 @@
       },
       {
         "extension": "./extension",
-        "load": "static/remoteEntry.0833372f8237ff5028c7.js",
-        "name": "bqplot"
-      },
-      {
-        "extension": "./extension",
         "load": "static/remoteEntry.5459894d80c1201f22ae.js",
         "name": "ipycanvas"
-      },
-      {
-        "extension": "./extension",
-        "load": "static/remoteEntry.8c5efb3516d04e6a5bb7.js",
-        "name": "jupyter-leaflet"
-      },
-      {
-        "extension": "./extension",
-        "load": "static/remoteEntry.8f896d6ad92823566c46.js",
-        "name": "jupyterlab-drawio",
-        "style": "./style"
       }
     ],
     "fullLabextensionsUrl": "./lab/extensions",
