@@ -1,10 +1,10 @@
 # Static JupyterLite server exposing ipycanvas example Notebooks
 
-Generated from **https://github.com/jtpio/jupyterlite-demo**
+Generated from https://github.com/jtpio/jupyterlite-demo
 
 ## ✨ Try it in your browser ✨
 
-- Coming soon
+**https://martinrenou.github.io/ipycanvas-lite**
 
 ## Requirements
 
